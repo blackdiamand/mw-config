@@ -6333,6 +6333,7 @@ $wgConf->settings = array(
 		'trexwiki' => "//$wmgUploadHostname/trexwiki/4/49/Wikit.png",
 		'triseptsoloutionswiki' => "//$wmgUploadHostname/triseptsolutionswiki/2/25/Trisept_Logo.png",
 		'trumpwiki' => "//$wmgUploadHostname/trumpwiki/c/c3/Magnifying-logo.jpg",
+		'trwcwiki' => "//$wmgUploadHostname/trwcwiki/8/83/TRWCLogo.png"
 		'tudienwiki' => "//$wmgUploadHostname/tudienwiki/f/f0/Ftvh_Avatar.png",
 		'tulpawiki' => "//$wmgUploadHostname/tulpawiki/1/10/Tulpa.info-Logo.png",
 		'twswiki' => "//$wmgUploadHostname/twswiki/3/34/Tws-favicon.png",
